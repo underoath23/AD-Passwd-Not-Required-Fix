@@ -1,0 +1,1 @@
+Script to find and remediate all user accounts in AD forest that have the UAC flag set for PASSWD_NOTREQD. This flag being set allows a user to set passwords that do not meet domain policy requirements or not have a password at all.
